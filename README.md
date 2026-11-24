@@ -22,11 +22,16 @@ The project uses three relational tables:
 4. Recommendations
    
 •	Focus marketing activities on popular courses such as SQL Basics.
+
 •	Promote Data Analytics courses to increase revenue.
+
 •	Provide special offers for courses with zero purchases.
+
 •	Encourage learners to explore multiple course categories.
+
 •	Monitor learner purchasing behaviour to improve sales performance.
 
 6. Conclusion
+   
 This project demonstrates how MySQL can be used to manage relational databases and analyse e-learning purchase data. By using SQL joins, aggregate functions, filtering and analytical queries, meaningful business insights can be generated to support management decisions.
 
